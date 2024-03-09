@@ -20,9 +20,9 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I'm a Front-End React developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> hailing from Minsk and currently advancing through my second year at the esteemed Belarusian State University of Informatics and Radioelectronics.Highly motivated specialist excited about Java development, possessing persistence, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently deliver top-notch results in everything I undertake.
+I am a Frontend React developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently attending high school. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
 
-Apart from my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
+In addition to my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
 
 If you are interested in my profile, please feel free to contact me through the widgets above ☝️. For more detailed technical information, including my technology stack, please refer to the section below 👇.
 
@@ -53,7 +53,7 @@ If you are interested in my profile, please feel free to contact me through the 
 ## 🔌 &nbsp; Other things used
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
