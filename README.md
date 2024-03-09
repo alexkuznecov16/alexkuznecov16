@@ -35,6 +35,7 @@ If you are interested in my profile, please feel free to contact me through the 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="75" height="75"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/> &nbsp;
 
 ## 🔧 &nbsp;Related technologies
