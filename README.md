@@ -58,4 +58,7 @@ If you are interested in my profile, please feel free to contact me through the 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/alexkuznecov16/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuznecov16&layout=compact" /></a>
+ </p>
