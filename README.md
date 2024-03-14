@@ -71,9 +71,3 @@ If you are interested in my profile, please feel free to contact me through the 
 <p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&locale=en&count_private=true&theme=react&border_radius=10" alt="alexkuznecov16" /></p>
 </div>
 
-###
-
-<h3 align="left">My contributions</h3>
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?alexkuznecov16&show_icons=true)
-
