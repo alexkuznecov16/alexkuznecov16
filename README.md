@@ -30,9 +30,6 @@ If you are interested in my profile, please feel free to contact me through the 
 
 ## 🧰 &nbsp;My professional toolbox
 
-<div style="background-color: grey; width: 75px; height: 75px;;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="75" height="75"/>
-</div>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="75" height="75"/> &nbsp;
@@ -42,6 +39,7 @@ If you are interested in my profile, please feel free to contact me through the 
 
 ## 🔧 &nbsp;Technologies
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
