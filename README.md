@@ -30,7 +30,7 @@ If you are interested in my profile, please feel free to contact me through the 
 
 ## 🧰 &nbsp;My professional toolbox
 
-<img src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/cms-contentful/public/nextjs.svg" alt="Next.js" width="75" height="75"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="75" height="75"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="75" height="75"/> &nbsp;
