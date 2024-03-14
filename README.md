@@ -64,7 +64,21 @@ If you are interested in my profile, please feel free to contact me through the 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-<p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/alexkuznecov16/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkuznecov16&layout=compact" /></a>
- </p>
+###
+
+<div align="center">
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexkuznecov16&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="alexkuznecov16" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&locale=en&count_private=true&theme=react&border_radius=10" alt="alexkuznecov16" /></p>
+</div>
+
+###
+
+<h3 align="left">My contributions</h3>
+
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
