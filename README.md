@@ -77,8 +77,8 @@ If you are interested in my profile, please feel free to contact me through the 
 
 <div align="left">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adzhigitovruslan/adzhigitovruslan/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexkuznecov16/alexkuznecov16/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexkuznecov16/alexkuznecov16/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alexkuznecov16/alexkuznecov16/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
