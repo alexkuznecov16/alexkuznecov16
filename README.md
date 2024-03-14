@@ -75,10 +75,5 @@ If you are interested in my profile, please feel free to contact me through the 
 
 <h3 align="left">My contributions</h3>
 
-<div align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexkuznecov16/alexkuznecov16/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexkuznecov16/alexkuznecov16/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alexkuznecov16/alexkuznecov16/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?alexkuznecov16&show_icons=true)
+
