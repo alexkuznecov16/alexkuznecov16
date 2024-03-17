@@ -45,6 +45,7 @@ If you are interested in my profile, please feel free to contact me through the 
 ## 🔧 &nbsp;Technologies
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
