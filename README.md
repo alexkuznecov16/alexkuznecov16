@@ -66,6 +66,30 @@ If you are interested in my profile, please feel free to contact me through the 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+&nbsp;
+
+## 💼 &nbsp;Services I Offer
+
+### Frontend Development
+Leveraging my expertise in React and Next.js, I create dynamic and responsive web applications. I ensure seamless user experiences and maintainability by utilizing modern frontend frameworks and libraries.
+
+### Backend Development
+I provide robust backend solutions using Node.js and Express.js. My services include API development, database integration with MySQL, and ensuring scalable server-side applications.
+
+### Full-Stack Development
+Combining my frontend and backend skills, I offer comprehensive full-stack development services. This includes building end-to-end solutions, from client interfaces to server logic and database management.
+
+### Custom Web Applications
+I specialize in developing bespoke web applications tailored to specific business needs. Whether it's an e-commerce platform, a custom CMS, or a complex web portal, I deliver solutions that align with your business goals.
+
+### UI/UX Design and Prototyping
+With tools like Figma and Adobe Photoshop, I create intuitive and aesthetically pleasing UI/UX designs. My process includes wireframing, prototyping, and user testing to ensure optimal user engagement.
+
+### Performance Optimization
+I offer services to enhance the performance of your web applications. This includes code optimization, load balancing, and implementing best practices for faster load times and improved user experience.
+
+&nbsp;
+
 ###
 
 <div align="center">
