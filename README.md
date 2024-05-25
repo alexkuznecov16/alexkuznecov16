@@ -80,7 +80,7 @@ I provide robust backend solutions using Node.js and Express.js. My services inc
 Combining my frontend and backend skills, I offer comprehensive full-stack development services. This includes building end-to-end solutions, from client interfaces to server logic and database management.
 
 ### Custom Web Applications
-I specialize in developing bespoke web applications tailored to specific business needs. Whether it's an e-commerce platform, a custom CMS, or a complex web portal, I deliver solutions that align with your business goals.
+I specialize in developing bespoke web applications tailored to specific business needs. Whether it's an e-commerce platform, or a complex web portal, I deliver solutions that align with your business goals.
 
 ### UI/UX Design and Prototyping
 With tools like Figma and Adobe Photoshop, I create intuitive and aesthetically pleasing UI/UX designs. My process includes wireframing, prototyping, and user testing to ensure optimal user engagement.
