@@ -25,7 +25,7 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I am a Frontend React developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently attending high school. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
+I am a Frontend Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently attending high school. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
 
 In addition to my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
 
