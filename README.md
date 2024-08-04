@@ -14,9 +14,6 @@
   <a href="https://alexander.kuznecov16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/kznws">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
 </div>
 
 <div id="badges" align="center">
