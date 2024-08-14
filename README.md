@@ -79,29 +79,6 @@ If you are interested in my profile, please feel free to contact me through the 
 
 &nbsp;
 
-
-## 💼 &nbsp;Services I Offer
-
-### Frontend Development
-Utilizing my expertise in JavaScript and TypeScript along with frameworks like React.js and Next.js, I specialize in crafting dynamic and responsive web applications. I excel in creating pixel-perfect user interfaces with HTML, CSS (including SASS, LESS, Tailwind CSS, PostCSS) and managing state with MobX and Redux, ensuring seamless frontend experiences. Additionally, I can assist in setting up and managing domain addresses to ensure your web presence is established smoothly.
-
-### Backend Development
-I provide robust backend solutions leveraging Node.js and Express.js. My services include API development, WebSocket integration for real-time communication, and utilizing Django for Python-based backend solutions. I excel in managing server configurations with nginx and gunicorn, and deploying scalable solutions on AWS. Moreover, I can help with domain setup and configuration to ensure your backend services are accessible and secure.
-
-### Full-Stack Development
-From frontend interfaces using HTML, CSS, and JavaScript/TypeScript to backend logic with Node.js, Express.js, and Python (Django), I offer comprehensive full-stack development services. This includes proficient database management with MySQL and SQLite and containerization using Docker, ensuring end-to-end solutions tailored to your requirements. I can also assist in configuring domain addresses for your full-stack applications to streamline deployment and accessibility.
-
-### Custom Web Applications
-Specializing in custom web application development, I build tailored solutions that meet specific business requirements. Whether it's developing e-commerce platforms or intricate web portals, I ensure scalable and efficient applications using the latest technologies. I can also provide assistance in registering and configuring domain addresses to establish your unique online presence effectively.
-
-### UI/UX Design and Prototyping
-With proficiency in design tools like Figma and Photoshop, I create intuitive UI/UX designs. From wireframing to prototyping and user testing, I focus on enhancing user engagement and experience through visually appealing and functional designs. Additionally, I can collaborate on domain address setup to align your design efforts with a cohesive online strategy.
-
-### Performance Optimization
-I optimize web application performance through efficient coding practices, load balancing techniques, and implementation of best practices. This includes optimizing frontend assets and backend architecture to achieve faster load times and superior user experience. I also provide guidance on domain configuration to ensure optimized performance and accessibility for your applications.
-
-&nbsp;
-
 ###
 
 <div align="center">
