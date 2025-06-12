@@ -8,11 +8,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexander-kuznecov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://alexander.kuznecov16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-kuznecov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 
