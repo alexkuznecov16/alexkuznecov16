@@ -8,10 +8,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexander-kuznecov/" target="_blank"">
+  <a href="https://www.linkedin.com/in/alexander-kuznecov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://alexander.kuznecov16@gmail.com">
+  <a href="https://alexander.kuznecov16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I am a Frontend Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently attending high school. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
+I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently attending high school. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
 
 In addition to my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
 
@@ -44,13 +44,10 @@ If you are interested in my profile, please feel free to contact me through the 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=LESS&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
 
 ## Backend
 
@@ -58,11 +55,6 @@ If you are interested in my profile, please feel free to contact me through the 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=WebSocket&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![gunicorn](https://img.shields.io/badge/gunicorn-366C8D?style=for-the-badge&logo=gunicorn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Data Stores
 
