@@ -53,13 +53,11 @@ If you are interested in my profile, please feel free to contact me through the 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=WebSocket&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ## Data Stores
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 
 ## 🔌 &nbsp; Other things used
 
