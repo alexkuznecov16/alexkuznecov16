@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20There! 👋;I'm%20Alexander%20Kuznecov;Web%20developer;&font=Righteous%20&center=true&width=500&height=45&vCenter=true&size=25&duration=4000" /></a>
+    <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C%20There!%20👋;I'm%20Alexander%20Kuznecov;Web%20developer;&font=Righteous&center=true&width=500&height=45&vCenter=true&size=25&duration=4000" />
+  </a>
 </h1>
 
 <div align="center">
@@ -36,7 +37,7 @@ If you are interested in my profile, please feel free to contact me through the 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Frontend
 
