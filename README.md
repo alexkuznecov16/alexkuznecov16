@@ -74,7 +74,7 @@ If you are interested in my profile, please feel free to contact me through the 
 ###
 
 <div align="center">
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexkuznecov16&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="alexkuznecov16" /></p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexkuznecov16&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&hide=css,scss,html" alt="alexkuznecov16" /></p>
 <p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=alexkuznecov16&show_icons=true&locale=en&count_private=true&theme=react&border_radius=10" alt="alexkuznecov16" /></p>
 </div>
 
