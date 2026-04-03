@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/alexander-kuznecov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.t.me/kznws111" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <div id="badges" align="center">
@@ -23,7 +26,7 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently attending high school. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
+I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently studying in Turiba University. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
 
 In addition to my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
 
