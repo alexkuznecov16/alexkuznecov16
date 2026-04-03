@@ -8,10 +8,6 @@
   I build scalable web applications and real-time systems using modern technologies like React, Next.js, and Supabase.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <div id="badges" align="center">
   <a href="mailto:alexander.kuznecov16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
@@ -30,11 +26,17 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> residing in Jurmala, Latvia, and currently studying in Turiba University. A highly motivated professional, passionate about web development, I possess perseverance, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently achieve excellent results in everything I undertake.
+## 👋 About Me
 
-In addition to my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
+Frontend Developer focused on building fast, scalable, and production-ready web applications.
 
-If you are interested in my profile, please feel free to contact me through the widgets above ☝️. For more detailed technical information, including my technology stack, please refer to the section below 👇.
+I specialize in React, Next.js, and TypeScript, with hands-on experience in real-time systems, clean architecture, and performance optimization.
+
+Currently expanding my expertise beyond frontend by studying backend development, including Python and Java, as well as databases like PostgreSQL and MySQL. I actively apply this knowledge in my projects to better understand system design and architecture.
+
+My goal is to grow into a well-rounded fullstack developer with a strong focus on building scalable and maintainable systems.
+
+I focus on understanding how applications work end-to-end, not just on the frontend layer.
 
 &nbsp;
 
@@ -64,29 +66,10 @@ If you are interested in my profile, please feel free to contact me through the 
 
 &nbsp;
 
-## Programming Languages
+## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 
-## Frontend
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
-
-## Data Stores
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+**Testing:** ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
