@@ -34,6 +34,30 @@ If you are interested in my profile, please feel free to contact me through the 
 
 &nbsp;
 
+## 🚀 Featured Projects
+
+### 💬 WebTalk — Real-time Chat Platform
+- Minimal real-time chat application built with Next.js and Supabase
+- Implemented authentication, user search, and 1-to-1 messaging
+- Built realtime architecture using Supabase subscriptions (no polling)
+- Designed optimistic UI for instant message delivery
+- Clean modular architecture (context + components)
+
+**Tech:** Next.js, TypeScript, Supabase, PostgreSQL, SCSS  
+🔗 https://webtalk-one.vercel.app  
+🔗 https://github.com/alexkuznecov16/webtalk
+
+
+### ✅ Task Manager (Production)
+- Full-stack task management application with authentication and CRUD
+- Integrated Supabase + PostgreSQL as backend (BaaS approach)
+- Built responsive UI with focus on UX and performance
+- Continuously improved features in production
+
+**Tech:** React, Next.js, TypeScript, Supabase, PostgreSQL  
+🔗 https://getdone.online  
+
+&nbsp;
 
 ## Programming Languages
 
