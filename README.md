@@ -1,8 +1,12 @@
-# Alexander Kuznecov
+<h1 align="center">Alexander Kuznecov</h1>
 
-Frontend Developer (React / Next.js)
+<p align="center">
+  Frontend Developer (React / Next.js)
+</p>
 
-I build scalable web applications and real-time systems using modern technologies like React, Next.js, and Supabase.
+<p align="center">
+  I build scalable web applications and real-time systems using modern technologies like React, Next.js, and Supabase.
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
