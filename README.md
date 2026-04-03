@@ -58,7 +58,7 @@ If you are interested in my profile, please feel free to contact me through the 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+/![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ## Data Stores
 
@@ -71,12 +71,4 @@ If you are interested in my profile, please feel free to contact me through the 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-&nbsp;
-
-###
-
-<div align="center">
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexkuznecov16&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&hide=css,scss,html,typescript" alt="alexkuznecov16" /></p>
-</div>
 
