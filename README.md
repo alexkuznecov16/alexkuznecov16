@@ -1,8 +1,8 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+There!+👋;I'm+Alexander+Kuznecov;Web+Developer;+Telegram+Bot+Developer;&center=true&width=650&height=50&color=36BCF7&vCenter=true&size=25" alt="Typing SVG" />
-  </a>
-</h1>
+# Alexander Kuznecov
+
+Frontend Developer (React / Next.js)
+
+I build scalable web applications and real-time systems using modern technologies like React, Next.js, and Supabase.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -48,14 +48,15 @@ If you are interested in my profile, please feel free to contact me through the 
 🔗 https://github.com/alexkuznecov16/webtalk
 
 
-### ✅ Task Manager (Production)
+### ✅ Task Manager
 - Full-stack task management application with authentication and CRUD
 - Integrated Supabase + PostgreSQL as backend (BaaS approach)
 - Built responsive UI with focus on UX and performance
 - Continuously improved features in production
 
 **Tech:** React, Next.js, TypeScript, Supabase, PostgreSQL  
-🔗 https://getdone.online  
+🔗 https://getdone.online
+🔗 https://github.com/alexkuznecov16/Task-Manager
 
 &nbsp;
 
@@ -73,7 +74,6 @@ If you are interested in my profile, please feel free to contact me through the 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
@@ -82,17 +82,7 @@ If you are interested in my profile, please feel free to contact me through the 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
-/![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ## Data Stores
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-
-## 🔌 &nbsp; Other things used
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
