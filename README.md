@@ -24,8 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=alexkuznecov160z&style=for-the-badge" alt=""/>
 </div>
 
-# 👋 &nbsp; Welcome to my GitHub!
-
 ## 👋 About Me
 
 Frontend Developer focused on building fast, scalable, and production-ready web applications.
