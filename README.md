@@ -1,4 +1,4 @@
-<h1 align="center">Alexander Kuznecov</h1>
+<h1 align="center">Aleksandrs Kuznecovs</h1>
 
 <p align="center">
   Frontend Developer (React / Next.js)
